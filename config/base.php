@@ -1,7 +1,7 @@
 <?php return array (
   'site_name' => 'OneIndex',
   'password' => 'oneindex',
-  'style' => 'material',
+  'style' => 'nexmoe',
   'onedrive_root' => '',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
