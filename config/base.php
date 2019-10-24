@@ -1,5 +1,5 @@
 <?php return array (
-  'site_name' => 'OneIndex',
+  'site_name' => '能免则免',
   'password' => 'oneindex',
   'style' => 'nexmoe',
   'onedrive_root' => '',
